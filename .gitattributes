@@ -1,1 +1,3 @@
-*.dart linguist-language=Dart
+*.dart linguist-language=true
+*.c++ linguist-language=false
+*.CMake linguist-language=false
