@@ -1,6 +1,6 @@
-# iPhone Calculator Clone
+# Calculator
 
-This is a simple calculator app built with Flutter and Dart, designed to resemble the iPhone calculator with a modern blue and black color scheme.
+This is a simple calculator app built with Flutter and Dart, designed with a modern blue and black color scheme.
 
 ## Features
 
@@ -23,7 +23,7 @@ Make sure you have Flutter and Dart installed on your system. You can download t
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/calculator-clone.git
+git clone https://github.com/moDev05/Calculator.git
 ```
 
 2. Navigate to the project directory:
