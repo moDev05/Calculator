@@ -1,5 +1,8 @@
+# Forcer la détection de Dart
 *.dart linguist-detectable=true
-*.cpp linguist-detectable=false
-*.h linguist-detectable=false
+
+# Ignorer les fichiers C++ et CMake
 *.cpp linguist-vendored
 *.h linguist-vendored
+CMakeLists.txt linguist-vendored
+*.cmake linguist-vendored
