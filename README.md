@@ -10,7 +10,7 @@ This is a simple calculator app built with Flutter and Dart, designed with a mod
 
 ## Screenshots
 
-![Calculator Screenshot](path_to_your_screenshot.png)
+![Calculator Screenshot](calculator_screen.png)
 
 ## Getting Started
 
