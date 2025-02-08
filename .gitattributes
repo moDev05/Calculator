@@ -1,3 +1,5 @@
-*.dart linguist-language=true
-*.c++ linguist-language=false
-*.CMake linguist-language=false
+*.dart linguist-detectable=true
+*.cpp linguist-detectable=false
+*.h linguist-detectable=false
+*.cpp linguist-vendored
+*.h linguist-vendored
