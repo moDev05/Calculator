@@ -330,7 +330,7 @@ class _MyHomePageState extends State<MyHomePage> {
         {'icon': FontAwesomeIcons.minus, 'value': '-', 'color': Colors.blue},
       ],
       [
-        {'icon': FontAwesomeIcons.one, 'value': '7'},
+        {'icon': FontAwesomeIcons.one, 'value': '1'},
         {'icon': FontAwesomeIcons.two, 'value': '8'},
         {'icon': FontAwesomeIcons.three, 'value': '9'},
         {'icon': FontAwesomeIcons.plus, 'value': '+', 'color': Colors.blue},
